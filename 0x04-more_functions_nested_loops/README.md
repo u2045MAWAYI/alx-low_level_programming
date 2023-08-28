@@ -1,2 +1,2 @@
-#more function
-_nested_loops
+#!/bin/bash
+0x04. C - More functions, more nested loops
