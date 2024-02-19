@@ -6,12 +6,11 @@
  *
  * Return: The sum of all the data, or 0 if the list is empty.
  */
-int sum_dlistint(dlistint_t *head)
-{
+int sum_dlistint(dlistint_t *head) {
     int sum = 0;
 
     for (; head != NULL; head = head->next)
         sum += head->n;
 
-    return (sum);
+    return sum;
 }
