@@ -1,5 +1,3 @@
-#include <stdlib.h>
-
 /**
  * mul - multiply two integers.
  * @a: First integer.

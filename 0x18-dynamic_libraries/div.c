@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 /**
  * div - divide two integers.
  * @a: First integer.
